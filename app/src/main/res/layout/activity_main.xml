@@ -13,11 +13,13 @@
         android:orientation="vertical">
 
         <TextView
+            android:id="@+id/inputScreen"
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_margin="10dp" />
 
         <TextView
+            android:id="@+id/resultScreen"
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_margin="10dp" />
